@@ -16,6 +16,4 @@ Spotify has over 190 million active users interacting with over 40 million track
 * Choosing Model
 * Deployment
 
-## Deployment
-https://rohan-spotify-prediction.herokuapp.com/
 
